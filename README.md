@@ -29,6 +29,15 @@ Note: data in `./scientific-box` on the host will be shared with `/vagrant` on t
  * vagrant-berkshelf plugin
 
 
+#### Platforms
+
+Tested on host platforms:
+
+ * OS X 10.8
+ * Ubuntu 12.04
+ * Elementary 0.2b2
+
+
 #### Todo
 
  * Write a cookbook for [R](http://www.r-project.org/)
