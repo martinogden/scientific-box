@@ -3,8 +3,10 @@ Scientific Box
 
 Provision an Ubuntu (12.04) VM using [Vagrant](http://vagrantup.com/) and [Chef](http://www.opscode.com/chef/) with everything you need to get started with scientific / statistical computing or machine learning, including:
 
- * **Python** (NumPy, SciPy, SymPy, Pandas, Matplotlib, iPython, Skikit-learn)
+ * **Python** (NumPy, SciPy, SymPy, Pandas, Matplotlib, Skikit-learn, IPython)
  * **GNU Octave**
+
+This is particularly useful for OS X, as there are [problems](http://stackoverflow.com/a/12098130) installing SciPy using pip and brew.
 
 
 #### Usage
